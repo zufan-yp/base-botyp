@@ -1,6 +1,6 @@
 # python-twitter-menfess-bot
 
-Twitter menfess bot to create an autobase account. All messages sent to the account containing keywords will be tweeted
+base - bot yp to create an autobase account. All messages sent to the account containing keywords will be tweeted
 
 ## Guide
 
